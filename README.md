@@ -1,3 +1,3 @@
 # newo
 this is newo
-author-ishi1452
+author-ishikaken
