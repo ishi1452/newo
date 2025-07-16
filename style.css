@@ -1,0 +1,36 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background-color: black;
+}
+.mx-auto{
+    margin:auto;
+}
+.flex
+{
+    display: flex;
+    justify-content: center;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+}
+.button{
+    padding: 16px;
+    margin: 0 5px;
+    border: dimgrey;
+    border-radius: 9px;
+}
+.row{
+    margin: 5px 0;
+}
+.raw{
+    width: 200px;
+   
+    margin: 0;
+    padding:  20px 20px ;
+   
+}
